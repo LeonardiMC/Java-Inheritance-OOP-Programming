@@ -1,0 +1,2 @@
+# Java-Inheritance-Project
+ This Java project demonstrates the use of composite classes and the "HAS A" relationship. It includes:  A Name class (first, middle, last name). A Person class (name, gender, age, salary). Proper setter methods for validation. A main class that creates and modifies Person objects. The program ensures data validation for gender, age, and salary, and follows object-oriented principles.
