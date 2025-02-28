@@ -1,10 +1,10 @@
 
-public class Animal extends Object {     //Universal Super Class
-	
+public class Animal extends Object { // Universal Super Class
+
 	private int weight;
 	private int height;
-	
-	public Animal (int weight, int height) {
+
+	public Animal(int weight, int height) {
 		super();
 		setWeight(weight);
 		setHeight(height);
@@ -17,8 +17,7 @@ public class Animal extends Object {     //Universal Super Class
 	public void setWeight(int weight) {
 		this.weight = weight;
 	}
-	
-	
+
 	public int getHeight() {
 		return height;
 	}
